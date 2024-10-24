@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148832422147",
+    "project_id": "react-native-notify-95c9d",
+    "storage_bucket": "react-native-notify-95c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148832422147:android:22c068f5741a25f3e4c136",
+        "android_client_info": {
+          "package_name": "com.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVO_0nQsUE8ZshDuvntYn-cDbHZaAuQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
